@@ -25,7 +25,7 @@ Answer: There seems to be a better correlation between Score (predicted prices) 
 
 Having stated the above, I must state that I am fairly confident in the model’s ability to predict the diamond prices. On the average, the differences between the scatterplots are negligible as they both display an obvious similar trend.
 
-### Step 3: Make a Recommendation
+### Step 3: Making a Recommendation
 1.	Question: What price do you recommend the jewelry company to bid? Please explain how you arrived at that number.
 Answer: I recommend the jewelry company to bid for $8,211,163.14591454. 
 
